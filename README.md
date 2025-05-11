@@ -86,7 +86,7 @@ It empowers not only **food vendors**, but also **individuals, nonprofits, and f
 
 And with **geolocation at its core**, Pass The Plate ensures that food moves efficiently—from those who have it to those who need it—**right within the same community**.
 
-This integrated, location-first approach makes Pass The Plate more than just a food-sharing app—it's a powerful engine not for reducing waste; it’s also about amplifying generosity, increasing access, and building stronger local food ecosystems.
+This integrated, location-first approach makes Pass The Plate more than just a food-sharing app—it's a powerful engine not just for reducing food waste; it’s also about amplifying generosity, increasing access, and building stronger local food ecosystems.
 
 ---
 
