@@ -50,7 +50,7 @@ The platform provides metrics to show users their contribution to the community 
 ## Why This Works
 
 ### The Problem Starts at Home  
-According to the FAO, **61% of food waste globally comes from households**, not factories or farms. This makes individuals key players in any food recovery effort.
+According to the FAO, **61% of food waste globally comes from households and individuals**, not local vendors, resturants,factories or farms. This makes individuals key players in any food recovery effort.
 
 ### More Food, Still Hungry  
 In the U.S. alone, **119 billion pounds of food are wasted each year**, even as **1 in 8 Americans** faces food insecurity (Feeding America).
@@ -73,6 +73,20 @@ The more users participate, the more powerful the platform becomes. It’s desig
 - Faith-based groups, schools, nonprofits, and food banks  
 - Local vendors and restaurants with excess stock  
 - People seeking culturally familiar meals in unfamiliar places  
+
+---
+
+## Why Pass The Plate Stands Out
+
+According to the **UNEP Food Waste Index (2021)**, **61% of global food waste comes from households or individuals**, with **26% from food service** and **13% from retail**. Most platforms target only one of these sources.
+
+**Pass The Plate is different.**
+
+It empowers not only **food vendors**, but also **individuals, nonprofits, and food charities** to take action. By combining these efforts into one platform, we unlock **multiple points of impact** across the local food system.
+
+And with **geolocation at its core**, Pass The Plate ensures that food moves efficiently—from those who have it to those who need it—**right within the same community**.
+
+This integrated, location-first approach makes Pass The Plate more than just a food-sharing app—it's a powerful engine not for reducing waste; it’s also about amplifying generosity, increasing access, and building stronger local food ecosystems.
 
 ---
 
